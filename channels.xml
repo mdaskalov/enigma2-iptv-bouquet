@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Channels>
+  <Channel id="1" group="default" url="http://url_for_channel_1">Channel 1</Channel>
+  <Channel id="2" group="default" url="http://url_for_channel_2">Channel 2</Channel>
+  <Channel id="3" group="default" url="http://url_for_channel_3">Channel 3</Channel>
+  <Channel id="4" group="default" url="http://url_for_channel_4">Channel 4</Channel>
+  <Channel id="5" group="mygroup" url="http://url_for_channel_5">Channel 5</Channel>
+  <Channel id="6" group="mygroup" url="http://url_for_channel_6">Channel 6</Channel>
+  <Channel id="7" group="mygroup" url="http://url_for_channel_7">Channel 7</Channel>
+  <Channel id="8" group="mygroup" url="http://url_for_channel_8">Channel 8</Channel>
+</Channels>

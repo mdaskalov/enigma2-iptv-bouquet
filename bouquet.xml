@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bouquet name="IPTV" channels="channels.xml" file="userbouquet.iptv.tv">
+  <Marker name="TV channels"/>
+  <Service sid="1:0:19:283E:3FB:1:C00000:0:0:0:"/>
+  <Marker name="IPTV channels"/>
+  <Service id="1"/>
+  <Service id="2" name="MyCustomChannel"/>
+  <Service id="3" sid="1:0:19:283E:3FC:1:C00000:0:0:0:"/>
+  <Service id="4" sid="1:0:19:283E:3FD:1:C00000:0:0:0:" name="MyCustomChannel"/>
+  <Marker name="Channels group (mygroup)"/>
+  <Group name="mygroup"/>
+</Bouquet>
